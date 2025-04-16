@@ -1,4 +1,4 @@
-# Page-View-Time-Series-Visualizer
+
 # 📊 Page View Time Series Visualizer
 
 This project is a time series data visualization tool built using `Pandas`, `Matplotlib`, and `Seaborn`. It uses data from the [freeCodeCamp Forum](https://freecodecamp.org/) to explore and visualize trends in daily page views.
